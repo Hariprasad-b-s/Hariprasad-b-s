@@ -111,9 +111,8 @@ University of Cincinnati (Expected Dec 2026)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariprasad-b-s&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasad-b-s&layout=compact&theme=tokyonight)
-
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hariprasad-b-s)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hariprasad-b-s)
 ---
 
 ## 🤝 Connect With Me
