@@ -1,74 +1,127 @@
-# Hi there 👋 I'm Hariprasad B S
+# Hi 👋 I'm Hariprasad Bathini Sankaran
 
-🚀 Software Engineer | 💻 Full-Stack Developer | ☁️ Cloud & Backend Enthusiast  
+🚀 Data Engineer | ☁️ Cloud & Analytics | 🔐 Security Telemetry & Log Analytics  
 
-Welcome to my GitHub profile! I’m passionate about building scalable applications, working with modern backend systems, and continuously learning new technologies. I enjoy turning complex problems into clean, efficient solutions.
+I’m a results-driven **Data Engineer with 4+ years of experience** building scalable, production-grade data platforms across **Databricks, AWS, and Azure**. My work focuses on **large-scale ETL/ELT pipelines, real-time streaming systems, and security log analytics** that power enterprise monitoring, compliance, and threat detection use cases.
+
+🌐 Portfolio: https://hariprasad-b-s.github.io/portfolio/
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Background in Computer Science & Software Engineering  
-- 🔭 Currently working on **full-stack and backend-focused projects**
-- 🌱 Exploring **cloud technologies, system design, and scalable architectures**
-- 💡 Interested in **backend development, APIs, and distributed systems**
-- 🌐 Portfolio: **[hariprasad-b-s.github.io/portfolio](https://hariprasad-b-s.github.io/portfolio/)**
+- 💼 Data Engineer (Cyber Security domain) with experience processing **multi-terabyte telemetry**
+- 🧱 Strong expertise in **Medallion (Bronze–Silver–Gold) architectures**
+- ⚙️ Build **streaming & batch pipelines** using Spark, PySpark, Kafka, and Airflow
+- ☁️ Hands-on with **AWS & Azure** data ecosystems
+- 🔐 Interested in **security data engineering, observability, and log analytics**
+- 🎓 MS in Information Technology (Expected Dec 2026)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Skills
 
-**Languages**
-- Java, Python, JavaScript, TypeScript
+### Data Engineering
+- Databricks, Apache Spark, PySpark, SQL
+- ETL / ELT, Data Modeling, Medallion Architecture
+- Delta Lake, Unity Catalog, Structured Streaming
+- Apache Airflow, dbt (Cloud), Kafka (Basics)
 
-**Backend**
-- Node.js, Express.js, REST APIs
-- Java, Spring Boot (basics)
+### Cloud & DevOps
+- **AWS**: S3, Lambda  
+- **Azure**: ADLS Gen2, Azure SQL, Azure Data Factory  
+- Terraform (Databricks & Cloud IaC)
+- CI/CD with GitHub Actions & Azure DevOps
 
-**Frontend**
-- React.js, HTML, CSS, JavaScript
+### Programming & Tools
+- Python, Java, C++
+- REST API data ingestion
+- Git, GitHub, VS Code
+- Unix/Linux
 
-**Databases**
-- MongoDB, MySQL, PostgreSQL
+---
 
-**Cloud & Tools**
-- AWS (EC2, S3 – fundamentals)
-- Git & GitHub
-- Docker (basics)
-- Postman
+## 💼 Professional Experience
+
+### **Data Engineer II – Cyber Security**
+**Comcast Corporation** | Aug 2023 – Aug 2025
+
+- Architected large-scale **Databricks pipelines** processing multi-terabyte security telemetry from firewalls, endpoints, and threat systems
+- Built **real-time streaming pipelines** using Spark Structured Streaming & Kafka for near-real-time threat detection
+- Designed enterprise-grade **Medallion architecture**, improving query performance and investigation speed
+- Automated ingestion from **50+ security tools** using Cribl, Airflow, and AWS Lambda
+- Reduced infrastructure costs by **$20K annually** via Delta optimization (ZORDER, Vacuum, partitioning)
+- Implemented **Terraform-based CI/CD** for Databricks jobs, clusters, and permissions
+
+---
+
+### **Data Engineer**
+**Infosys Ltd. (Microsoft Client)** | Jun 2021 – Aug 2023
+
+- Built and optimized ETL pipelines in **Azure Databricks & ADF**
+- Migrated legacy SQL procedures to **PySpark**, reducing runtime by 30+
+- Designed **dimensional data models** for BI and executive reporting
+- Implemented strong **data quality and validation frameworks**
+- Developed reusable **REST API ingestion pipelines** in Python
+
+---
+
+### **Data Trainee**
+**Zoho Corporation** | Jan 2020 – Dec 2020
+
+- Built SQL-driven reporting pipelines for internal analytics
+- Wrote complex SQL queries and Python automation scripts
+- Gained strong foundations in **ETL, data modeling, and version control**
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **Portfolio Website**  
-A personal portfolio showcasing my projects, skills, and experience.  
-➡️ [View Project](https://hariprasad-b-s.github.io/portfolio/)
+### 🔹 Real-Time Retail Demand Forecasting (AWS)
+- Event-driven ingestion using **S3, Glue, Lambda**
+- PySpark ETL in Databricks
+- CI/CD via Terraform & GitHub Actions
+- Real-time dashboards for inventory optimization
 
-🔹 **Full-Stack Web Applications**  
-Built responsive web apps using React, Node.js, and databases with focus on clean architecture and scalability.
+### 🔹 Security Log Analytics & Threat Detection (Azure)
+- Large-scale log ingestion with **ADF + Databricks**
+- Medallion architecture for SIEM-ready datasets
+- Airflow orchestration & full auditability
+- Power BI dashboards for threat visibility
 
-🔹 **Backend & API Projects**  
-Designed RESTful APIs, handled authentication, and optimized database interactions.
+### 🔹 Databricks Spark Query Listener Framework
+- Captures streaming & batch job metrics in real time
+- Kafka-backed monitoring pipeline
+- Delta tables with Unity Catalog for observability
 
-*(More projects available in my repositories 👇)*
+---
+
+## 🎓 Education & Certifications
+
+**M.S. in Information Technology**  
+University of Cincinnati (Expected Dec 2026)
+
+**Certifications**
+- Databricks Certified Data Engineer Professional
+- Databricks Lakehouse Fundamentals
+- Azure Data Fundamentals (DP-900)
+- Azure Fundamentals (AZ-900)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Hariprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariprasad-b-s&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariprasad-b-s&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariprasad-b-s&layout=compact&theme=tokyonight)
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
-- 🌐 Portfolio: [hariprasad-b-s.github.io/portfolio](https://hariprasad-b-s.github.io/portfolio/)
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- 📧 Email: *(add your email here)*
+- 🌐 Portfolio: https://hariprasad-b-s.github.io/portfolio/
+- 💼 LinkedIn: https://linkedin.com/in/hariprasadbs
+- 📧 Email: hariprasad.sankaran@gmail.com
 
 ---
 
-⭐️ If you like my work, feel free to star my repositories!
+⭐ If you’re interested in **data engineering, cloud platforms, or security analytics**, feel free to explore my repositories!
